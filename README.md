@@ -2,6 +2,8 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+![alt img] (https://github.com/Mayank-mic/Captcha-generation-and-predicition/blob/main/Screenshot%202023-07-28%20at%2011.00.25%20PM.png)
+
 This repository contains a Python script named "Captcha.py" that demonstrates the generation and prediction of CAPTCHAs using machine learning techniques. CAPTCHAs are used to distinguish between human users and automated bots on websites.
 
 ## Table of Contents
